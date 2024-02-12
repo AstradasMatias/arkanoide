@@ -1,2 +1,3 @@
-# arkanoide
-Arkanoide! Juego de escritorio desarrollado con Python y PyGame.
+Juego desarrollado en  Python  con la libreria de PyGame. 
+Programacion Orientada a Objetos.
+
